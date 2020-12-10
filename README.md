@@ -39,6 +39,5 @@
 ----
 
 
-#### 🇦🇷ARMX🇲🇽 is a community of friends from all over the world who aspire to live in a harmonious world based on the principle of sustainability.
-
-ARMX UNIDOS (ARMX) TRC-20 is a digital token that allows people around the world to exchange, transfer and invest value.
+#### 🇦🇷ARMX🇲🇽 
+ARMX fue creado en la red trc20 con el propósito de la comunidad en enviar y recibir valores instantáneo.. ahy muchas cryptomonedas y token que proporcionan lo mismo pero estamos apoyado por nuestra comunidad de varios argentinos y mexicanos dónde muchos le facilita enviar dentro de la red trc20
